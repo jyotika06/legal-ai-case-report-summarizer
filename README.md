@@ -47,6 +47,7 @@ Legal_AI/
 │
 ├── frontend/
 ├── backend/
+├── screenshots/
 ├── README.md
 └── .gitignore
 ```
@@ -84,6 +85,34 @@ python app.py
 
 ---
 
+## 🏗️ Architecture Diagram
+
+![Architecture](screenshots/Architecture.jpg)
+
+---
+
+## 🔄 System Workflow
+
+![Workflow](screenshots/workflow.jpg)
+
+---
+
+## 📸 Project Results
+
+### Home Page / Upload Interface
+
+![Result 1](screenshots/Picture1.jpg)
+
+### Generated Summary Output
+
+![Result 2](screenshots/Picture2.jpg)
+
+### Case Analysis Results
+
+![Result 3](screenshots/Picture3.jpg)
+
+---
+
 ## 👩‍💻 My Contribution
 
 * ✅ Project Development
@@ -93,6 +122,18 @@ python app.py
 * ✅ Case Report Summarization
 * ✅ Testing and Debugging
 * ✅ UI Improvements
+
+---
+
+## 🎯 Skills Demonstrated
+
+* Natural Language Processing (NLP)
+* React.js Development
+* Flask Backend Development
+* API Integration
+* Legal Document Analysis
+* AI-Powered Summarization
+* Git & GitHub Version Control
 
 ---
 
